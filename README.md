@@ -16,7 +16,7 @@ The `Auto MD` project uses advanced techniques like text splitting, embedding, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/Bollesh/auto-md.git
    cd your-repo-name
    ```
 
